@@ -6,7 +6,7 @@
 **Time:** 8:00pm - 10:00pm
 **Location:** Zoom  
 
-
+---
 
 ## 👥 Attendance
 
@@ -33,12 +33,10 @@
 
 ---
 
-## 📝 Notes
+## 🔍 Items for Future Investigation
+How we'd do rotations for meeting notes & roles
 
-### Items for Future Investigation
-- How we'd do rotations for meeting notes & roles
-
-### Decisions Made
+## ✅ Decisions Made
 > Team name is **17-38**
 
 Meetings every Tuesday right after LE! 
