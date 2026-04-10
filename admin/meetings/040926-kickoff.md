@@ -3,7 +3,7 @@
 
 **Topic:** CSE 110 Project Logistics  
 **Date:** Wednesday, April 9, 2026  
-**Time:** 8:00pm - 10:00pm
+**Time:** 8:00pm - 10:00pm  
 **Location:** Zoom  
 
 ---
