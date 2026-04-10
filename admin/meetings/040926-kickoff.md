@@ -6,16 +6,7 @@
 **Time:** 8:00pm - 10:00pm
 **Location:** Zoom  
 
----
 
-## 🔗 Navigation
-- [Attendance](#attendance)
-- [Agenda](#agenda)
-- [Notes](#notes)
-- [Media](#media)
-- [Feedback](#feedback)
-
----
 
 ## 👥 Attendance
 
