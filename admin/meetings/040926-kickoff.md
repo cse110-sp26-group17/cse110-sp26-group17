@@ -1,70 +1,88 @@
-
-# Team 17: CSE 110 Group Meeting
+# Team 17: CSE 110 Group Meeting 
 
 **Topic:** CSE 110 Project Logistics  
 **Date:** Wednesday, April 9, 2026  
 **Time:** 8:00pm - 10:00pm  
-**Location:** Zoom  
+**Location:** Zoom
 
 ---
 
-## 👥 Attendance
+## Attendance 
 
-| Last Name        | First Name | Status  |
-|-----------------|-----------|--------|
-| Goldberg        | Cathlyn   | <span style="color: green;">Present</span> |
-| Kalarickal      | Sanjana   | <span style="color: green;">Present</span> |
-| Del Rio         | Ivan      | <span style="color: green;">Present</span> |
-| Pham            | Andrew    | <span style="color: green;">Present</span> |
-| Deverian        | Luke      | <span style="color: green;">Present</span> |
-| Mehta           | Sohum     | <span style="color: green;">Present</span> |
-| Lakhani         | Aayan     | <span style="color: green;">Present</span> |
-| Ali             | Mohammed  | <span style="color: green;">Present</span> |
-| Jimenez Chavez  | Paul      | <span style="color: green;">Present</span> |
-| Chen            | Raymond   | <span style="color: green;">Present</span> |
-| Jusay           | Jorell    | <span style="color: green;">Present</span> |
----
-
-## 📋 Agenda
-1. Overview of our upcoming assignments
-2. Assign Roles  
-3. Goals/Team Contract
-4. Schedule Next Meeting  
+| Last Name | First Name | Status |
+|---|---|---|
+| Goldberg | Cathlyn | Present |
+| Kalarickal | Sanjana | Present |
+| Del Rio | Ivan | Present |
+| Pham | Andrew | Present |
+| Deverian | Luke | Present |
+| Mehta | Sohum | Present |
+| Lakhani | Aayan | Present |
+| Ali | Mohammed | Present |
+| Jimenez Chavez | Paul | Present |
+| Chen | Raymond | Present |
+| Jusay | Jorell | Present |
 
 ---
 
-## 🔍 Items for Future Investigation
-How we'd do rotations for meeting notes & roles
+## Agenda 
 
-## ✅ Decisions Made
-> Team name is **17-38**
-
-Meetings every Tuesday right after LE! 
-Rotations every week for meeting notes.
-
-For this weekend, the jobs assigned are:
-- Video Idea: Andrew + Cathlyn
-- Website: Paul, Mohamed
-- Rules.md: Sohum
-- Meeting Notes: Cathlyn
-- Brand Logo: Jorell
-- Video Editing: Luke
-
-> EVERYONE SEND A HEADSHOT AND SHORT DESCRIPTION FOR WEBSITE
+1. Overview of our upcoming assignments 
+2. Assign Roles 
+3. Goals/Team Contract 
+4. Schedule Next Meeting
 
 ---
 
-## 🎥 Media
+## Items for Future Investigation 
 
-**Video:**  
-[Watch Video](040926.mp4)
+- How we'd do rotations for meeting notes & roles 
+- Project details still TBD 
 
-<details>
-<summary>Transcript</summary>
-- I forgot to download it
+---
 
+## Decisions Made 
+
+> Team name is **17-38** Meetings every Tuesday right after lecture! Rotations every week for meeting notes. 
+
+**Communication:** Primary channel is Slack.
+
+**Group Contract:** Due by Sunday. Covers team purpose, values, roles, conflict resolution, and communication standards. Key principles agreed on: 
+- Equal effort expected, with advance notice if something comes up 
+- Communicate blockers as soon as possible 
+- Learning-focused — skill gaps are expected and okay 
+
+**Standups:** Every Tuesday before or after class. Each person shares progress, blockers, and what they learned that week. 
+
+**Progress Tracking:** Shared docs per functional area (frontend, backend, etc.) so rotating members can catch up easily. Weekly goals written per section. 
+
+**Extra Credit:** Speaking up in class counts as participation credit — easy questions, just raise your hand. 
+
+For this weekend, the jobs assigned are: 
+- Video Idea: Andrew + Cathlyn 
+- Website: Paul, Mohamed 
+- Rules.md: Sohum 
+- Meeting Notes: Cathlyn 
+- Brand Logo: Jorell 
+- Video Editing: Luke 
+
+> EVERYONE SEND A HEADSHOT AND SHORT DESCRIPTION FOR WEBSITE 
+
+**Team page** (`team.md`) should include: team name, brand/logo, team values, and a roster with a photo and GitHub link for each member. Photos don't have to be professional. 
+
+**Intro video** Sohum will record separately at home since he can't make it Friday. Ice skating event at UTC is Friday 12–4pm, meet at 12:00–12:30pm.
+
+---
+
+## Media 
+
+**Video:** [Watch Video](040926.mp4) 
+
+<details> 
+<summary>Transcript</summary> 
+- I forgot to download it 
 </details>
 
----
+--- 
 
 *Team 17 Meeting Minutes - April 2026*
