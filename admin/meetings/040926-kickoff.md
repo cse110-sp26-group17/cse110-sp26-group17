@@ -56,8 +56,6 @@
 
 **Progress Tracking:** Shared docs per functional area (frontend, backend, etc.) so rotating members can catch up easily. Weekly goals written per section. 
 
-**Extra Credit:** Speaking up in class counts as participation credit — easy questions, just raise your hand. 
-
 For this weekend, the jobs assigned are: 
 - Video Idea: Andrew + Cathlyn 
 - Website: Paul, Mohamed 
@@ -70,7 +68,7 @@ For this weekend, the jobs assigned are:
 
 **Team page** (`team.md`) should include: team name, brand/logo, team values, and a roster with a photo and GitHub link for each member. Photos don't have to be professional. 
 
-**Intro video** Sohum will record separately at home since he can't make it Friday. Ice skating event at UTC is Friday 12–4pm, meet at 12:00–12:30pm.
+**Intro video** Those not able to go record your own videos and send it. Ice skating event at UTC is Friday 12–4pm, meet at 12:00–12:30pm.
 
 ---
 
