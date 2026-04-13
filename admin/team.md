@@ -121,7 +121,7 @@
 
 ### Aayan Lakhani
 
-*No portrait uploaded yet.*
+<img src="images/PXL_20260207_210357377.jpg" alt="Portrait of Aayan Lakhani" width="260" style="border-radius: 12px;" />
 
 - **Role:** Backend  
 - **Major:** Computer Science, Astronomy and Astrophysics
