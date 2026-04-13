@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="misc/images/IMG_0873.png"
+    src="branding/team1738-title.png"
     alt="Team 17 — Team 1738"
     width="560"
     style="max-width: 100%; height: auto; vertical-align: middle;"
@@ -10,10 +10,10 @@
 <p align="center"><em></em></p>
 
 <p align="center">
-  <img src="misc/images/IMG_0872.png" alt="Team 17 — full team group photo" width="720" style="max-width: 100%; border-radius: 14px;" />
+  <img src="branding/team-group-photo.png" alt="Team 17 — full team group photo" width="720" style="max-width: 100%; border-radius: 14px;" />
 </p>
 
-<p align="center"><em>Team 17 — everyone in one frame</em></p>
+<p align="center"><em></em></p>
 
 ---
 
@@ -27,15 +27,13 @@
 ---
 
 ## 👥 Team Roster
-
-
 ---
 
 ## Team Leads
 
 ### Sanjana Kalarickal
 
-<img src="misc/images/IMG_6623.jpg" alt="Portrait of Sanjana Kalarickal" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/IMG_6623.jpg" alt="Portrait of Sanjana Kalarickal" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Roles:** Team Lead / Testing  
 - **Major:** Computer Science  
@@ -49,7 +47,7 @@
 
 ### Andrew Pham
 
-<img src="misc/images/IMG_0957.jpg" alt="Portrait of Andrew Pham" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/IMG_0957.jpg" alt="Portrait of Andrew Pham" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Roles:** Team Lead / Testing
 - **Major:** Computer Science  
@@ -65,7 +63,7 @@
 
 ### Paul Jimenez
 
-<img src="misc/images/IMG_9584.jpg" alt="Portrait of Paul Jimenez" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/IMG_9584.jpg" alt="Portrait of Paul Jimenez" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Role:** Frontend  
 - **Major:** Computer Science  
@@ -79,7 +77,7 @@
 
 ### Mohamed Ali
 
-<img src="misc/images/IMG_2300.jpg" alt="Portrait of Mohamed Ali" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/IMG_2300.jpg" alt="Portrait of Mohamed Ali" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Role:** Frontend  
 - **Major:** Computer Science  
@@ -95,7 +93,7 @@
 
 ### Sohum Mehta
 
-<img src="misc/images/IMG_9712.PNG" alt="Portrait of Sohum Mehta" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/IMG_9712.PNG" alt="Portrait of Sohum Mehta" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Role:** Backend  
 - **Major:** Computer Science  
@@ -136,7 +134,7 @@
 
 ### Ivan Del Rio
 
-<img src="misc/images/D8C78682-3CA1-4DF2-BD87-958AE51DE0F1.JPG" alt="Portrait of Ivan Del Rio" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/D8C78682-3CA1-4DF2-BD87-958AE51DE0F1.JPG" alt="Portrait of Ivan Del Rio" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Role:** Backend  
 - **Major:** Computer Science  
@@ -150,7 +148,7 @@
 
 ### Raymond Chen
 
-<img src="misc/images/PXL_20251108_204318937.jpg" alt="Portrait of Raymond Chen" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/PXL_20251108_204318937.jpg" alt="Portrait of Raymond Chen" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Role:** Backend  
 - **Major:** Computer Science  
@@ -166,7 +164,7 @@
 
 ### Jorell Jusay
 
-<img src="misc/images/IMG_5950.jpg" alt="Portrait of Jorell Jusay" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/IMG_5950.jpg" alt="Portrait of Jorell Jusay" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Role:** Design  
 - **Major:** Computer Science  
@@ -180,7 +178,7 @@
 
 ### Cathlyn Goldberg
 
-<img src="misc/images/B109328D-628E-4349-AFC8-E8DBFFCA4EAC_1_201_a.jpeg" alt="Portrait of Cathlyn Goldberg" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
+<img src="images/B109328D-628E-4349-AFC8-E8DBFFCA4EAC_1_201_a.jpeg" alt="Portrait of Cathlyn Goldberg" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
 - **Roles:** Design / Frontend  
 - **Major:** Computer Science  
