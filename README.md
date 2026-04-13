@@ -1,2 +1,4 @@
 # cse110-sp26-group17
 CSE 110 SP2026 TEAM 17 REPO
+
+[TEAM 17 PAGE](admin/team.md)
