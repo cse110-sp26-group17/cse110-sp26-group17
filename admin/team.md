@@ -1,176 +1,199 @@
-<!-- Overall comments:
-A lot of this is basic in order for it to be easily customizable. Any suggestions for formatting are highly appreciated.
-^(or anything you have in mind!)- Paul
+<h1 align="center">
+  <img
+    src="misc/images/IMG_0873.png"
+    alt="Team 17 — Team 1738"
+    width="560"
+    style="max-width: 100%; height: auto; vertical-align: middle;"
+  />
+</h1>
 
--->
+<p align="center"><em></em></p>
+
+<p align="center">
+  <img src="misc/images/IMG_0872.png" alt="Team 17 — full team group photo" width="720" style="max-width: 100%; border-radius: 14px;" />
+</p>
+
+<p align="center"><em>Team 17 — everyone in one frame</em></p>
+
+---
+
+## 🌟 Our Values
+- Prioritizing communication and staying aligned as a team  
+- Collaborating effectively and respectfully  
+- Learning how real-world software teams function  
+- Supporting each other whenever needed  
+- ~~Creating a resume builder project~~
+
+---
+
+## 👥 Team Roster
 
 
-# Team 17: Team 1738
-TEAM 17: Team 1738 (temporary! i'm still unsure of how the title/this section should look like)
+---
 
-![TEAM 1738 RIGHT HEREEEE]() <!-- will be uploaded when on github repo -->
+## Team Leads
 
-
-## Our Values
-
-- Prioritizing communication with each other and staying on the same page.
-- Effectively collaborating as a group.
-- Learning how a software development team would function.
-- Supporting team members whenever it's wanted/needed.
-- ~~Creating a resume builder project.~~
-
-
-# Team Roster
-
-
-<!----------------------------------------------------LEADS------------------------------------------------->
-
-
-## Team Leads:
 ### Sanjana Kalarickal
-Major: Computer Science
 
-2nd Year
+<img src="misc/images/IMG_6623.jpg" alt="Portrait of Sanjana Kalarickal" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-Roles: Team Leader/Test
+- **Roles:** Team Lead / Testing  
+- **Major:** Computer Science  
+- **Year:** 2nd Year  
 
-> "Everytime I touch the basketball, my fingers keep paying the price(five sprains so far)"
+> "Every time I touch the basketball, my fingers keep paying the price (five sprains so far)"
 
-[Sanjana's Github](https://github.com/sanjana1976)
+🔗 [GitHub](https://github.com/sanjana1976)
+
+---
 
 ### Andrew Pham
 
-Major: Computer Science
+<img src="misc/images/IMG_0957.jpg" alt="Portrait of Andrew Pham" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-3rd Year
+- **Roles:** Team Lead / Testing
+- **Major:** Computer Science  
+- **Year:** 3rd Year  
 
-Roles: Team Lead/Test
+> "I once fit 5 Krispy Kreme donuts in my mouth at once"
 
-> "I once fit 5 krispy kreme donuts in my mouth at once"
+🔗 [GitHub](https://github.com/AndrewPhamCode)
 
-[Andrew's Github](https://github.com/AndrewPhamCode)
+---
 
-## Frontend:
+## 🎨 Frontend
 
 ### Paul Jimenez
 
-Major: Computer Science
+<img src="misc/images/IMG_9584.jpg" alt="Portrait of Paul Jimenez" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-2nd Year
+- **Role:** Frontend  
+- **Major:** Computer Science  
+- **Year:** 2nd Year  
 
-Role: Frontend
-> "I once ate 24 brownies in the span of one night. It was horrible but the memories are worth it."
+> "I once ate 24 brownies in one night. It was horrible but the memories are worth it."
 
-[Paul's Github](https://github.com/pijcucsd28)
+🔗 [GitHub](https://github.com/pijcucsd28)
+
+---
 
 ### Mohamed Ali
 
-Major: Computer Science
+<img src="misc/images/IMG_2300.jpg" alt="Portrait of Mohamed Ali" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-4th Year
-
-Role: Frontend
+- **Role:** Frontend  
+- **Major:** Computer Science  
+- **Year:** 4th Year  
 
 > "Oldest of 8 kids and huge LeBron fan"
 
-[Mohamed's Github]()
+🔗 [GitHub]()
 
-<!----------------------------------------------------BACKEND------------------------------------------------->
+---
 
-## Backend: 
+## ⚙️ Backend
 
 ### Sohum Mehta
 
-Major: Computer Science
+<img src="misc/images/IMG_9712.PNG" alt="Portrait of Sohum Mehta" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-2nd Year
+- **Role:** Backend  
+- **Major:** Computer Science  
+- **Year:** 2nd Year  
 
-Role: Backend
+> "When COVID started I needed a haircut badly, but all barbershops were closed, so I went fully bald (never again)"
 
-> "When covid just started I needed a haircut bad, but all barbershops closed down so I went fully bald
-(never again)"
+🔗 [GitHub](https://github.com/sohummehta)
 
-[Sohum's Github](https://github.com/sohummehta)
+---
 
 ### Luke Deverian
 
-Major: Computer Science
+*No portrait uploaded yet.*
 
-N/A Year
+- **Role:** Backend  
+- **Major:** Computer Science  
+- **Year:** N/A  
 
-Role: Backend
+> N/A  
 
-[Luke's Github](https://github.com/lukemdeverian)
+🔗 [GitHub](https://github.com/lukemdeverian)
 
-> N/A
+---
 
 ### Aayan Lakhani
 
-Major: Computer Science
+*No portrait uploaded yet.*
 
-N/A Year
+- **Role:** Backend  
+- **Major:** Computer Science  
+- **Year:** N/A  
+> N/A  
 
-Role: Backend
+🔗 [GitHub](https://github.com/AayanLakhani)
 
-> N/A
-
-[Aayan's Github](https://github.com/AayanLakhani)
-
-<!-- 
-
-I don't remember what year Luke and Aayan are in....
-
--->
+---
 
 ### Ivan Del Rio
 
-Major: Computer Science
+<img src="misc/images/D8C78682-3CA1-4DF2-BD87-958AE51DE0F1.JPG" alt="Portrait of Ivan Del Rio" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-3rd Year
-
-Role: Backend
+- **Role:** Backend  
+- **Major:** Computer Science  
+- **Year:** 3rd Year  
 
 > "I can windmill breakdance"
 
-[Ivan's Github](https://github.com/BariBariGood)
+🔗 [GitHub](https://github.com/BariBariGood)
+
+---
 
 ### Raymond Chen
 
-Major: Computer Science
+<img src="misc/images/PXL_20251108_204318937.jpg" alt="Portrait of Raymond Chen" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-3rd Year
+- **Role:** Backend  
+- **Major:** Computer Science  
+- **Year:** 3rd Year  
 
-Role: Backend
+> "Got 2 fortune cookies telling me to order steak medium well / well done the day after getting food poisoning from rare steak TwT"
 
-> "Got 2 fortune cookies teaching me to order steak medium well / well done the day after being food poisoned by rare steak TwT"
+🔗 [GitHub](https://github.com/Satellamoon)
 
-[Raymond's Github](https://github.com/Satellamoon)
+---
 
-<!-------------------------------------------DESIGN------------------------------------------------------->
-## Design:
+## 🎨 Design
 
 ### Jorell Jusay
 
-Major: Computer Science
+<img src="misc/images/IMG_5950.jpg" alt="Portrait of Jorell Jusay" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-3rd Year
+- **Role:** Design  
+- **Major:** Computer Science  
+- **Year:** 3rd Year  
 
-Role: Design
+> "I think of coding as the non-fantasy equivalent of spell casting to add a splash of whimsy"
 
-> "I think of coding as the non-fantasy equivalent of spell casting as motivation to add a splash of whimsy"
+🔗 [GitHub](https://github.com/JoJusay)
 
-[Jorell's Github](https://github.com/JoJusay)
+---
 
 ### Cathlyn Goldberg
 
-Major: Computer Science
+<img src="misc/images/B109328D-628E-4349-AFC8-E8DBFFCA4EAC_1_201_a.jpeg" alt="Portrait of Cathlyn Goldberg" width="260" height="260" style="object-fit: cover; border-radius: 12px;" />
 
-Minors: Design
-
-2nd Year
-
-Roles: Design / Frontend
-
+- **Roles:** Design / Frontend  
+- **Major:** Computer Science  
+- **Minor:** Design  
+- **Year:** 2nd Year  
 > "I have a talent for opening the fridge multiple times expecting new food to appear."
 
-[Cathlyn's Github](https://github.com/2090lyn/)
+🔗 [GitHub](https://github.com/2090lyn/)
+
+---
+
+<!--
+Still need:
+- Luke & Aayan year info
+- Luke & Aayan portraits (optional)
+-->
