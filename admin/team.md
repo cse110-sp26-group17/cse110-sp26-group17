@@ -111,9 +111,9 @@
 
 - **Role:** Backend  
 - **Major:** Computer Science  
-- **Year:** N/A  
+- **Year:** 3rd Year 
 
-> N/A  
+> "My favorite flavor of ice cream is cotton candy and I will never grow out of it"
 
 🔗 [GitHub](https://github.com/lukemdeverian)
 
