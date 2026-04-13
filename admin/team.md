@@ -124,9 +124,9 @@
 *No portrait uploaded yet.*
 
 - **Role:** Backend  
-- **Major:** Computer Science  
-- **Year:** N/A  
-> N/A  
+- **Major:** Computer Science, Astronomy and Astrophysics
+- **Year:** 3rd year
+> :Luke is right about cotton candy ice cream, it's the best flavor"
 
 🔗 [GitHub](https://github.com/AayanLakhani)
 
