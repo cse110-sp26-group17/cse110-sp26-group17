@@ -165,7 +165,7 @@ Role: Design
 
 Major: Computer Science
 
-Minors: Design
+Minors: Design & Business
 
 2nd Year
 
