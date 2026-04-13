@@ -107,7 +107,7 @@
 
 ### Luke Deverian
 
-*No portrait uploaded yet.*
+<img src="images/lukeportrait.jpg" alt="Portrait of Luke Deverian" width="260" style="border-radius: 12px;" />
 
 - **Role:** Backend  
 - **Major:** Computer Science  
